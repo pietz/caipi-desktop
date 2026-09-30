@@ -1,3 +1,5 @@
+> **Archived.** This is the 2024 Caipi desktop app, which is no longer developed. The current Caipi, a workspace your AI builds into, lives at [github.com/pietz/caipi](https://github.com/pietz/caipi).
+
 <p align="center">
   <img src="assets/caipi-logo-source.png" alt="Caipi" width="128" height="128">
 </p>
@@ -7,12 +9,12 @@
 <p align="center">
   A fast, lightweight desktop app for AI coding CLIs.
   <br>
-  <a href="https://caipi.ai">Website</a> &middot; <a href="https://github.com/pietz/caipi/releases/latest">Download</a>
+  <a href="https://caipi.ai">Website</a> &middot; <a href="https://github.com/pietz/caipi-desktop/releases/latest">Download</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/pietz/caipi/releases/latest"><img src="https://img.shields.io/github/v/release/pietz/caipi?label=version" alt="Latest Release"></a>
-  <a href="https://github.com/pietz/caipi/releases/latest"><img src="https://img.shields.io/github/downloads/pietz/caipi/total" alt="Downloads"></a>
+  <a href="https://github.com/pietz/caipi-desktop/releases/latest"><img src="https://img.shields.io/github/v/release/pietz/caipi-desktop?label=version" alt="Latest Release"></a>
+  <a href="https://github.com/pietz/caipi-desktop/releases/latest"><img src="https://img.shields.io/github/downloads/pietz/caipi-desktop/total" alt="Downloads"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-BSL--1.1-blue" alt="License"></a>
 </p>
 
@@ -53,10 +55,10 @@ Caipi detects installed backends automatically on startup.
 
 | Platform | Download | Requirements |
 |----------|----------|--------------|
-| **macOS** | [Apple Silicon (.dmg)](https://github.com/pietz/caipi/releases/latest/download/caipi_aarch64.dmg) | macOS 12+ |
-| **Windows** | [x64 (.exe)](https://github.com/pietz/caipi/releases/latest/download/caipi_x64.exe) | Windows 10+ |
+| **macOS** | [Apple Silicon (.dmg)](https://github.com/pietz/caipi-desktop/releases/latest/download/caipi_aarch64.dmg) | macOS 12+ |
+| **Windows** | [x64 (.exe)](https://github.com/pietz/caipi-desktop/releases/latest/download/caipi_x64.exe) | Windows 10+ |
 
-Or grab the latest release from the [releases page](https://github.com/pietz/caipi/releases/latest).
+Or grab the latest release from the [releases page](https://github.com/pietz/caipi-desktop/releases/latest).
 
 ## Getting Started
 
