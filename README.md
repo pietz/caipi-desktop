@@ -1,4 +1,4 @@
-> **Archived.** This is the 2024 Caipi desktop app, which is no longer developed. The current Caipi, a workspace your AI builds into, lives at [github.com/pietz/caipi](https://github.com/pietz/caipi).
+> **Archived.** This is the 2024 Caipi desktop app, which is no longer developed. The current Caipi, a workspace your AI builds into, lives at [caipi.ai](https://caipi.ai).
 
 <p align="center">
   <img src="assets/caipi-logo-source.png" alt="Caipi" width="128" height="128">
